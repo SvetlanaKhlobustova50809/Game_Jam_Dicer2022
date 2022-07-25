@@ -4,8 +4,11 @@
 
 Данная игра была сделана по теме 'Roll the dice'. По правилам следует перевернуть кубик той стороной вверх, какая указана на финишной плитке. Шестигранный кубик можно переворачивать на любую сторону с помощью управления 'WASD' на клавиатуре. 
 
-Я занималась разработкой меню: расположением и работоспособностью кнопок, тем, чтобы пользователь сам мог изменять разрешение игры в настройках.
-Код по изменению разрешения можете увидеть здесь: [создание](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/odata_1/Create_0.gml),[проверка на каждом шаге](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/odata_1/Step_0.gml) и [отрисовка](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/odata_1/Draw_64.gml).
+*Я занималась разработкой меню: расположением и работоспособностью кнопок, тем, чтобы пользователь сам мог изменять разрешение игры в настройках.*
 
+**Код по изменению разрешения можете увидеть здесь: [создание](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/odata_1/Create_0.gml),[проверка на каждом шаге](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/odata_1/Step_0.gml) и [отрисовка](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/odata_1/Draw_64.gml).** Также этот и другой код можете просмотреть в файлах к этому проекту.
 
+**Представление игры:**
 ![gif](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/Dicer.gif?raw=true)
+
+По [этой ссылке](https://foryougame.itch.io/dicer) можете сами скачать и опробовать игру Dicer.
