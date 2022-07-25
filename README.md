@@ -11,4 +11,4 @@
 **Представление игры:**
 ![gif](https://github.com/SvetlanaKhlobustova50809/Game_Jam_Dicer2022/blob/main/Dicer.gif?raw=true)
 
-По [этой ссылке](https://foryougame.itch.io/dicer) можете сами скачать и опробовать игру Dicer.
+По [этой ссылке](https://foryougame.itch.io/dicer) можете скачать и опробовать игру Dicer.
